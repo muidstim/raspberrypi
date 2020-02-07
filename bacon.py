@@ -1,4 +1,4 @@
-print("This is my bacon!, I love cokezero")
+print("This is a bacon!, I love cokezero")
 
 
 print("yes")
